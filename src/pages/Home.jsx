@@ -1,5 +1,5 @@
 
-import Navbar from '../components/navbar/navbar'
+
 import './Home.css'
 import Card from '../components/card/card'
 import Businesscards from '../components/businesscards/businesscards'
@@ -7,7 +7,7 @@ import Businesscards from '../components/businesscards/businesscards'
 const Home = () => {
     return (
         <>
-            <Navbar />
+            
             <div className="home-page">
                 <h1 className="title-home">“Ronroneos felices, cuidadores confiables”</h1>
                 <Card />
