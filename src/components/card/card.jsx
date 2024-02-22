@@ -6,7 +6,7 @@ const Card = () => {
     return (
         <div className="container">
             <div className="card">
-                <h1 className="title-card1">¿Que servicio necesitas?</h1>
+                <h1 className="title-card1">¿Qué servicio necesitas?</h1>
                 <div className='imgs'>
                     <img src="./src/assets/img/alojamiento.svg" alt="" />
                     <img src="./src/assets/img/paseos.svg" alt="" />
