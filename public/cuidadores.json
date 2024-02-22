@@ -1,0 +1,215 @@
+{
+    "cuidadores": [
+      {
+        "name": "Juan Pérez",
+        "address": "Madrid, Leganés",
+        "image": "1.png",
+        "category": "alojamiento",
+        "description": "Amante de los gatos, ofrezco alojamiento cálido y cómodo para que tus gatitos se sientan como en casa."
+      },
+      {
+        "name": "María García",
+        "address": "Barcelona, Hospitalet de Llobregat",
+        "image": "2.jpg",
+        "category": "paseo",
+        "description": "Apasionada por pasear con gatos. Disfrutarán de agradables paseos mientras les brindo cariño y atención."
+      },
+      {
+        "name": "Carlos Rodríguez",
+        "address": "Valencia, Torrent",
+        "image": "3.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en la comodidad de su hogar. Les proporciono atención personalizada y amor constante."
+      },
+      {
+        "name": "Laura Martínez",
+        "address": "Sevilla, Dos Hermanas",
+        "image": "4.jpg",
+        "category": "alojamiento",
+        "description": "Especialista en cuidado de gatos durante el alojamiento. Mi hogar es su hogar, lleno de afecto y juegos."
+      },
+      {
+        "name": "Pablo Sánchez",
+        "address": "Zaragoza, Zaragoza",
+        "image": "5.jpg",
+        "category": "paseo",
+        "description": "Entusiasta de los paseos con gatos. Les brindo un entorno estimulante y seguro para explorar."
+      },
+      {
+        "name": "Sofía López",
+        "address": "Málaga, Málaga",
+        "image": "6.jpg",
+        "category": "domicilio",
+        "description": "Cuidado a domicilio para tus gatos. Les garantizo atención individualizada y mucho cariño en su entorno familiar."
+      },
+      {
+        "name": "Diego Castro",
+        "address": "Murcia, Cartagena",
+        "image": "7.jpg",
+        "category": "alojamiento",
+        "description": "Experto en alojamiento para gatos. Mi hogar es su refugio, lleno de amor y comodidades felinas."
+      },
+      {
+        "name": "Elena Ruiz",
+        "address": "Palma, Calvià",
+        "image": "8.jpg",
+        "category": "paseo",
+        "description": "Paseos relajantes y divertidos para tus gatos. Les ofrezco ejercicio y afecto al aire libre."
+      },
+      {
+        "name": "Adrián Gómez",
+        "address": "Las Palmas, Las Palmas de Gran Canaria",
+        "image": "9.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en su entorno habitual. Proporciono atención personalizada y amor constante."
+      },
+      {
+        "name": "Natalia Hernández",
+        "address": "Alicante, Elche",
+        "image": "10.jpg",
+        "category": "alojamiento",
+        "description": "Amante de los gatos. Ofrezco alojamiento seguro y acogedor, lleno de cariño y diversión."
+      },
+      {
+        "name": "Javier Díaz",
+        "address": "Bilbao, Bilbao",
+        "image": "11.jpg",
+        "category": "paseo",
+        "description": "Paseos divertidos y enriquecedores para tus gatos. Les brindo aventuras y afecto en cada recorrido."
+      },
+      {
+        "name": "Carmen Jiménez",
+        "address": "Córdoba, Córdoba",
+        "image": "12.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en casa. Les proporciono atención individualizada y amor constante."
+      },
+      {
+        "name": "Miguel Ramírez",
+        "address": "Valladolid, Valladolid",
+        "image": "13.jpg",
+        "category": "alojamiento",
+        "description": "Especialista en alojamiento para gatos. Mi hogar es su refugio, lleno de amor y comodidades felinas."
+      },
+      {
+        "name": "Paula Vargas",
+        "address": "Vigo, Vigo",
+        "image": "14.jpg",
+        "category": "paseo",
+        "description": "Paseos relajantes y divertidos para tus gatos. Les ofrezco ejercicio y afecto al aire libre."
+      },
+      {
+        "name": "Hugo Méndez",
+        "address": "Gijón, Gijón",
+        "image": "15.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en su entorno habitual. Proporciono atención personalizada y amor constante."
+      },
+      {
+        "name": "Isabel Castro",
+        "address": "A Coruña, A Coruña",
+        "image": "16.jpg",
+        "category": "alojamiento",
+        "description": "Amante de los gatos. Ofrezco alojamiento seguro y acogedor, lleno de cariño y diversión."
+      },
+      {
+        "name": "Bruno Fernández",
+        "address": "Granada, Granada",
+        "image": "17.jpg",
+        "category": "paseo",
+        "description": "Paseos divertidos y enriquecedores para tus gatos. Les brindo aventuras y afecto en cada recorrido."
+      },
+      {
+        "name": "Lucía Serrano",
+        "address": "Alicante, Torrevieja",
+        "image": "18.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en casa. Les proporciono atención individualizada y amor constante."
+      },
+      {
+        "name": "Alejandro Ortega",
+        "address": "Mataró, Mataró",
+        "image": "19.jpg",
+        "category": "alojamiento",
+        "description": "Especialista en alojamiento para gatos. Mi hogar es su refugio, lleno de amor y comodidades felinas."
+      },
+      {
+        "name": "Sara Mendoza",
+        "address": "Badalona, Badalona",
+        "image": "20.jpg",
+        "category": "paseo",
+        "description": "Paseos relajantes y divertidos para tus gatos. Les ofrezco ejercicio y afecto al aire libre."
+      },
+      {
+        "name": "Daniel Vidal",
+        "address": "Terrassa, Terrassa",
+        "image": "21.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en su entorno habitual. Proporciono atención personalizada y amor constante."
+      },
+      {
+        "name": "Aitana Flores",
+        "address": "Salamanca, Salamanca",
+        "image": "22.jpg",
+        "category": "alojamiento",
+        "description": "Amante de los gatos. Ofrezco alojamiento seguro y acogedor, lleno de cariño y diversión."
+      },
+      {
+        "name": "Martín Castillo",
+        "address": "San Sebastián, Donostia",
+        "image": "23.jpg",
+        "category": "paseo",
+        "description": "Paseos divertidos y enriquecedores para tus gatos. Les brindo aventuras y afecto en cada recorrido."
+      },
+      {
+        "name": "Valeria Rubio",
+        "address": "Getafe, Getafe",
+        "image": "24.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en casa. Les proporciono atención individualizada y amor constante."
+      },
+      {
+        "name": "Óscar Cordero",
+        "address": "Albacete, Albacete",
+        "image": "25.jpg",
+        "category": "alojamiento",
+        "description": "Especialista en alojamiento para gatos. Mi hogar es su refugio, lleno de amor y comodidades felinas."
+      },
+      {
+        "name": "Luna Ríos",
+        "address": "Castellón, Castellón de la Plana",
+        "image": "26.jpg",
+        "category": "paseo",
+        "description": "Paseos relajantes y divertidos para tus gatos. Les ofrezco ejercicio y afecto al aire libre."
+      },
+      {
+        "name": "Mario Soto",
+        "address": "Santa Cruz de Tenerife, Santa Cruz de Tenerife",
+        "image": "27.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en su entorno habitual. Proporciono atención personalizada y amor constante."
+      },
+      {
+        "name": "Emma Guzmán",
+        "address": "Leganés, Leganés",
+        "image": "28.jpg",
+        "category": "alojamiento",
+        "description": "Amante de los gatos, ofrezco alojamiento cálido y cómodo para que tus gatitos se sientan como en casa."
+      },
+      {
+        "name": "Lucas Morales",
+        "address": "Lleida, Lleida",
+        "image": "29.jpg",
+        "category": "paseo",
+        "description": "Entusiasta de los paseos con gatos. Disfrutarán de agradables paseos mientras les brindo cariño y atención."
+      },
+      {
+        "name": "Julia Rojas",
+        "address": "Girona, Girona",
+        "image": "30.jpg",
+        "category": "domicilio",
+        "description": "Cuido de tus gatos en la comodidad de su hogar. Les proporciono atención personalizada y amor constante."
+      }
+    ]
+  }
+  
