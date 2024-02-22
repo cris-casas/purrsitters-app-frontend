@@ -1,4 +1,3 @@
-import Navbar from '../components/navbar/navbar'
 import './Home.css'
 import Card from '../components/card/card'
 import FetchCuidadores from '../components/cards/FetchCuidadores'
@@ -8,7 +7,7 @@ import Footer from '../components/footer/footer'
 const Home = () => {
     return (
         <>
-            <Navbar />
+        
             <div className="home-page">
                 <h1 className="title-home">“Ronroneos felices, <br />cuidadores confiables”</h1>
                 <Card />
