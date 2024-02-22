@@ -1,0 +1,19 @@
+.container-fluid{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 25px;
+    padding: 0, 40px;
+    
+    
+}
+.logo{
+    position: relative;
+
+    
+}
+
+.material-icons{
+    margin-right: 30px;
+}
