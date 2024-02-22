@@ -1,5 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
-import './nanbar.css'
+import './navbar.css'
 
 const Navbar = () => {
     return (
