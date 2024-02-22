@@ -2,7 +2,8 @@
 import Navbar from '../components/navbar/navbar'
 import './Home.css'
 import Card from '../components/card/card'
-import Businesscards from '../components/businesscards/businesscards'
+import FetchCuidadores from '../components/cards/FetchCuidadores'
+// import Businesscards from '../components/businesscards/businesscards'
 
 const Home = () => {
     return (
@@ -23,9 +24,10 @@ const Home = () => {
 
             </div>
             <section className="cards_perfiles">
+                {/* <Businesscards />
                 <Businesscards />
-                <Businesscards />
-                <Businesscards />
+                <Businesscards /> */}
+                <FetchCuidadores />
             </section>
             
 
