@@ -60,6 +60,7 @@ Todo nuestro diseño fue elaborado con amor en Figma. ¡Puedes verlo aquí! [Dis
 - CSS
 - JavaScript
 - React
+- Vite
 - Bootstrap
 - JSON
 
