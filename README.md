@@ -50,7 +50,7 @@ Este proyecto fue posible gracias al arduo trabajo de nuestros talentosos colabo
 
 ## Diseño en Figma 🎨
 
-Todo nuestro diseño fue elaborado con amor en Figma. ¡Puedes verlo aquí! [Diseño en Figma](https://www.figma.com/file/YTbf3v5Sh6wnl5FONuMocV/PurrSitters?type=design&node-id=0%3A1&mode=design&t=gT8PoKu72fOV4fFU-1)
+Todo nuestro diseño fue elaborado con amor en Figma. ¡Puedes verlo aquí! [Diseño en Figma](https://www.figma.com/file/YTbf3v5Sh6wnl5FONuMocV/PurrSitters?type=design&node-id=0%3A1&mode=design&t=sX3MDPErYZDFSl5l-1)
 
 ## Stacks Utilizados y Repositorios 🛠️
 
